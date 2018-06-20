@@ -1,0 +1,10 @@
+GDE_FIELD_NAMES	POLISH	ENGLISH	GERMAN	SPANISH	GDE_IGNORE	
+GDE_FIELD_TYPES	string	string	string	string		
+GDE_IGNORE						
+
+Sam_0_Button_Text_0	Niemiecki
+Sam_0_Button_Text_1	Angielski
+Sam_0_Button_Text_2	Polski
+Sam_0_Texts_Text_3	Mysz
+Sam_0_Texts_Text_4	Sło
+Sam_0_Texts_Text_5	Pies
